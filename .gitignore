@@ -1,4 +1,4 @@
 *.ipynb
 .venv/
 *.png
-*.HEIC
+# *.HEIC
