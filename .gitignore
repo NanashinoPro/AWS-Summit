@@ -3,4 +3,7 @@
 *.png
 !その他写真/*.png
 !ハッカソン/*.png
+!Amazon Connect で実現するカスタマーセルフサービスの新しいカタチ/**/*.png
+!Amazon SageMaker HyperPod を利用した日本語 LLM (Swallow) の構築/**/*.png
+!AWS Amplifyで加速する生成AIアプリケーション開発/**/*.png
 # *.HEIC
