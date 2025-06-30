@@ -1,4 +1,6 @@
 *.ipynb
 .venv/
 *.png
+!その他写真/*.png
+!ハッカソン/*.png
 # *.HEIC
